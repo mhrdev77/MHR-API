@@ -1,0 +1,18 @@
+MHR-API/
+├── controllers/
+│   ├── productController.js
+│   ├── userController.js
+│   └── paymentController.js
+├── models/
+│   ├── Product.js
+│   ├── User.js
+│   └── Payment.js
+├── routes/
+│   ├── productRoutes.js
+│   ├── userRoutes.js
+│   └── paymentRoutes.js
+├── config/
+│   └── db.js
+├── .env
+├── server.js
+├── package.json
